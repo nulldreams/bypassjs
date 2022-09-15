@@ -1,5 +1,7 @@
 ### bypassjs
 
+Contexto: https://nulldreams.com/posts/cmV2ZXJzZSBzaGVsbA==
+
 Para buildar, é necessário possuir o pkg instalado globalmente:
 
 ```bash
